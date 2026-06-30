@@ -2,14 +2,19 @@
 
 ## Storicogeografico
 **Supposed Origin**
+\
 **Original Contributors**
 FEDERICO BORDONI
+\
 **Date** 
 2025-03  
+\
 **ENG - Meaning** 
 A phrase used to refer to an event of cardinal importance in the personal history of a small community, or of society as a whole.
+\
 **ITA - Significato** 
 Locuzione usata per riferirsi a un evento di rilevanza cardinale nella storia personale, di una piccola comunitá, o della società tutta.
+\
 
 ---
 
