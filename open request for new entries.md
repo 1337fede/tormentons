@@ -6,4 +6,4 @@
 - Capitoo
 - Guanti e occhiali
 - Eh matteo
-- si, ma no mucho
+- si, pero no mucho
