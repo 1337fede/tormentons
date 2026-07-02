@@ -1,9 +1,16 @@
 # new entries request
+- pazienza imane
 - Que ricooo: doble chocolate!
 - Siamo già a milano
 - Specialist
-- Loskovik moment
 - Capitoo
 - Guanti e occhiali
 - Eh matteo
-- si, pero no mucho
+
+- Magic gloves
+- Panni nuovi
+- Diboccabuona
+- Panchos e cattivoni
+- Super candelhaus
+- Visionario
+- Vero visionario
