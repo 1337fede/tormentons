@@ -177,4 +177,32 @@ FEDERICO BORDONI / GIAN CLAUDIO SCARAFINI
 Riferito a una persona capace di interessarsi a molte cose senza perdere l'empatia e la capacità di apprezzare e valorizzare lo sforzo altrui.  
 **ENG - Meaning**  
 Referred to someone who maintains empathy and an appreciation for the efforts of others while pursuing a wide range of interests.  
+A remark intended to express approval of a technical choice.  
 
+---
+
+# Panni nuovi
+**Supposed Origin**  
+SALERNO CITY  
+**Original Contributors**  
+RICCARDO RONCA  
+**Date**  
+2024  
+**ITA - Significato**  
+Celebrazione del senso di freschezza e pulizia che accompagna l'indossare capi appena acquistati. Alimentata dai complimenti di amici e parenti, è spesso corredata da un incremento dell'autostima del portatore degli indumenti.  
+**ENG - Meaning**  
+Celebration of the sense of freshness and cleanliness associated with wearing newly purchased clothing. Fueled by compliments from friends and family, it is often accompanied by an increase in the wearer's self-esteem.  
+
+---
+
+# Fluffoso
+**Supposed Origin**  
+Life   
+**Original Contributors**  
+FEDERICO BORDONI   
+**Date**  
+2012 CIRCA  
+**ITA - Significato**  
+Cosa o persona persona morbida al tatto, gommosa, affabile, e spesso con lunghe ciglia.  
+**ENG - Meaning**  
+A person or thing that is soft to the touch, rubbery, affable, and often sporting long eyelashes.  
