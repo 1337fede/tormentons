@@ -1,7 +1,5 @@
 # new entries request
 - pazienza imane
-- Que ricooo: doble chocolate!
-- Siamo già a milano
 - Specialist
 - Capitoo
 - Guanti e occhiali
