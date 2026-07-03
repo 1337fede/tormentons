@@ -146,7 +146,7 @@ IMANE EL BAKKALI  / FEDERICO BORDONI
 **Date**  
 2025  
 **ITA - Significato**  
-Spazientimento causato dall'pparente incapacità dell'interlocutore di comprendere una realtà quanto mai evidente.  
+Spazientimento causato dall'apparente incapacità dell'interlocutore di comprendere una realtà quanto mai evidente.  
 **ENG - Meaning**  
 Frustration caused by the interlocutor's apparent inability to grasp an all-too-obvious reality.
 
@@ -163,3 +163,18 @@ KONSTANTIN LOSHKOV
 Commento volto a esprimere approvazione per una scelta tecnica.  
 **ENG - Meaning**  
 A remark intended to express approval of a technical choice.  
+
+---
+
+# Diboccabuona
+**Supposed Origin**  
+POLIMI ARCHITETTURA  
+**Original Contributors**  
+FEDERICO BORDONI / GIAN CLAUDIO SCARAFINI  
+**Date**  
+2016  
+**ITA - Significato**  
+Riferito a una persona capace di interessarsi a molte cose senza perdere l'empatia e la capacità di apprezzare e valorizzare lo sforzo altrui.  
+**ENG - Meaning**  
+Referred to someone who maintains empathy and an appreciation for the efforts of others while pursuing a wide range of interests.  
+
