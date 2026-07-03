@@ -112,26 +112,26 @@ Mischievous and flirty greeting, aimed at demonstrating physical attraction towa
 
 # Si, pero no mucho
 **Supposed Origin**  
-INDEXLAB
+INDEXLAB  
 **Original Contributors**  
 FRANCISCO MARTINS CARABETTA
 **Date**  
-2022 
+2022  
 **ITA - Significato**  
-Modalitá di risposta volta a sottolineare la sostanziale incompletezza della propria preparazione su un dato argomento.
+Modalitá di risposta volta a sottolineare la sostanziale incompletezza della propria preparazione su un dato argomento.  
 **ENG - Meaning**  
-Method of response aimed at underlining the substantial incompleteness of one's preparation on a given topic.
+Method of response aimed at underlining the substantial incompleteness of one's preparation on a given topic.  
 
 ---
 
 # Loskovik moment
 **Supposed Origin**  
-INDEXLAB
+INDEXLAB  
 **Original Contributors**  
-IMANE EL BAKKALI
+IMANE EL BAKKALI  
 **Date**  
-2023
+2023  
 **ITA - Significato**  
-Momento drammatico di profonda tristezza e disillusione verso la societá, le persone, l'universo tutto. Spesso conduce al fatalismo.
+Momento drammatico di profonda tristezza e disillusione verso la societá, le persone, l'universo tutto. Spesso conduce al fatalismo.  
 **ENG - Meaning**  
-A dramatic moment of deep sadness and disillusionment with society, people, the whole universe. It often leads to fatalism.
+A dramatic moment of deep sadness and disillusionment with society, people, the whole universe. It often leads to fatalism.  
