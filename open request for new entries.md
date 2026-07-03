@@ -6,8 +6,6 @@
 - Eh matteo
 
 - Magic gloves
-- Panni nuovi
-- Diboccabuona
 - Panchos e cattivoni
 - Super candelhaus
 - Visionario
