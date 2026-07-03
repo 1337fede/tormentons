@@ -135,3 +135,31 @@ IMANE EL BAKKALI
 Momento drammatico di profonda tristezza e disillusione verso la societá, le persone, l'universo tutto. Spesso conduce al fatalismo.  
 **ENG - Meaning**  
 A dramatic moment of deep sadness and disillusionment with society, people, the whole universe. It often leads to fatalism.  
+
+---
+
+# Siamo già a Milano!
+**Supposed Origin**  
+INDEXLAB - Ritorno da Lecco in treno  
+**Original Contributors**  
+IMANE EL BAKKALI  / FEDERICO BORDONI  
+**Date**  
+2025  
+**ITA - Significato**  
+Spazientimento causato dall'pparente incapacità dell'interlocutore di comprendere una realtà quanto mai evidente.  
+**ENG - Meaning**  
+Frustration caused by the interlocutor's apparent inability to grasp an all-too-obvious reality.
+
+---
+
+# Que ricooo: doble chocolate!
+**Supposed Origin**  
+INDEXLAB  
+**Original Contributors**  
+KONSTANTIN LOSHKOV  
+**Date**  
+2025  
+**ITA - Significato**  
+Commento volto a esprimere approvazione per una scelta tecnica.  
+**ENG - Meaning**  
+A remark intended to express approval of a technical choice.  
