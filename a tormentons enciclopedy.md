@@ -26,11 +26,25 @@ Difficulty demonstrated by a subject in the fetching phase of a flying object, o
 
 ---
 
+# Wave development
+**Supposed Origin**  
+Wave development wave in the Paestum sea  
+**Original Contributors**  
+FEDERICO BORDONI & RICCARDO RONCA
+**Date**  
+2026-08  
+**ITA - Significato**  
+Generalmente associato alle waves, il wave development è il bisnonno del surf. La disciplina condivide il legame emotivo del surf con le waves eliminando la tavola da surf, e permettendo quindi ad ogni partecipante di interpretare il proprio modo di sviluppare waves in un "wave development environment" (WDE) complessivamente più accessibile. L'unica misura della competizione universalmente accettata è attualmente la "wave development distance" (WDD), che misura la capacità di un individuo di sviluppare waves mentre viene trasportato dalla wave verso la vicina costa. Il tipico WDD può misurare da zero a diversi metri. Esempi famosi di sviluppo di waves includono: infrangersi contro una o più waves, tuffarsi sott'acqua per evitare furtivamente una wave, restare fermi mentre si viene travolti da una wave, irrigidire braccia e gambe a mo' di tavola da surf per essere trasportati da una wave verso la riva.
+**ENG - Meaning**  
+Generally associated with waves, wave development is the great-grandfather of surfing. The discipline shares surfing's emotional connection with waves while dispensing with the surfboard,  and consequently letting every participant interpret his own particular way of developing the waves in an overall more affordable "wave development environment" (WDE). The only measure of wave development competition universally accepted is currently the "wave development distance" (WDD), which measures an individual's ability to develop waves while getting transported by a wave towards the near coastline. A normal WDD may range from zero to several meters. Famous examples of wave development entail: crashing against one or more waves, diving underwater to surreptitiously avoid the wave, staying still while getting trampled by a wave, making the surfing board stiffening one's arms and legs to be carried by a wave shoreward. 
+
+---
+
 # Infinito Calabria!
 **Supposed Origin**  
 Manu Chao concert in Acri, Cosenza  
 **Original Contributors**  
-FEDERICO BORDONI  
+MANU CHAO
 **Date**  
 2025-08  
 **ITA - Significato**  
@@ -58,7 +72,7 @@ A phrase used to refer to an event of cardinal importance in the personal histor
 **Supposed Origin**  
 INDEXLAB - SAIE Bari preparation  
 **Original Contributors**  
-IMANE EL BAKKALI / FEDERICO BORDONI / KONSTANTIN LOSHKOV  
+IMANE EL BAKKALI & FEDERICO BORDONI & KONSTANTIN LOSHKOV  
 **Date**  
 2023  
 **ITA - Significato**  
@@ -72,7 +86,7 @@ IMANE EL BAKKALI / FEDERICO BORDONI / KONSTANTIN LOSHKOV
 **Supposed Origin**  
 INDEXLAB - SAIE Bari preparation  
 **Original Contributors**  
-IMANE EL BAKKALI / KONSTANTIN LOSHKOV  
+IMANE EL BAKKALI & KONSTANTIN LOSHKOV  
 **Date**  
 2023-10  
 **ITA - Significato**  
@@ -86,7 +100,7 @@ Loss of intensity of an ongoing situation.
 **Supposed Origin**  
 INDEXLAB  
 **Original Contributors**  
-IMANE EL BAKKALI / FRANCISCO MARTINS CARABETTA  
+IMANE EL BAKKALI & FRANCISCO MARTINS CARABETTA  
 **Date**  
 2022
 **ITA - Significato**  
@@ -100,7 +114,7 @@ A mistake made due to lack of patience, or excessive impetus.
 **Supposed Origin**  
 INDEXLAB - SAIE Bari preparation  
 **Original Contributors**  
-IMANE EL BAKKALI / KONSTANTIN LOSHKOV  
+IMANE EL BAKKALI & KONSTANTIN LOSHKOV  
 **Date**  
 2023 
 **ITA - Significato**  
@@ -142,7 +156,7 @@ A dramatic moment of deep sadness and disillusionment with society, people, the 
 **Supposed Origin**  
 INDEXLAB - Ritorno da Lecco in treno  
 **Original Contributors**  
-IMANE EL BAKKALI  / FEDERICO BORDONI  
+IMANE EL BAKKALI  & FEDERICO BORDONI  
 **Date**  
 2025  
 **ITA - Significato**  
@@ -170,7 +184,7 @@ A remark intended to express approval of a technical choice.
 **Supposed Origin**  
 POLIMI ARCHITETTURA  
 **Original Contributors**  
-FEDERICO BORDONI / GIAN CLAUDIO SCARAFINI  
+FEDERICO BORDONI & GIAN CLAUDIO SCARAFINI  
 **Date**  
 2016  
 **ITA - Significato**  
