@@ -10,6 +10,6 @@
 - Super candelhaus
 - Visionario
 - Vero visionario
-- Detto valtellinese della nonna di Pier:
+- Luglio 2026: Detto valtellinese della nonna di Pier:
 "Se te gh’hee miga dent, te pö miga tirà ghen fö."
 Se non hai i denti non puoi mica tirar fuori qualcosa.
