@@ -30,7 +30,7 @@ Difficulty demonstrated by a subject in the fetching phase of a flying object, o
 **Supposed Origin**  
 Wave development wave in the Paestum sea  
 **Original Contributors**  
-FEDERICO BORDONI & RICCARDO RONCA
+FEDERICO BORDONI & RICCARDO RONCA  
 **Date**  
 2026-08  
 **ITA - Significato**  
@@ -44,7 +44,7 @@ Generally associated with waves, wave development is the great-grandfather of su
 **Supposed Origin**  
 Manu Chao concert in Acri, Cosenza  
 **Original Contributors**  
-MANU CHAO
+MANU CHAO  
 **Date**  
 2025-08  
 **ITA - Significato**  
@@ -102,7 +102,7 @@ INDEXLAB
 **Original Contributors**  
 IMANE EL BAKKALI & FRANCISCO MARTINS CARABETTA  
 **Date**  
-2022
+2022  
 **ITA - Significato**  
 Errore commesso per mancanza di pazienza, o per eccessivo impeto.  
 **ENG - Meaning**  
@@ -116,7 +116,7 @@ INDEXLAB - SAIE Bari preparation
 **Original Contributors**  
 IMANE EL BAKKALI & KONSTANTIN LOSHKOV  
 **Date**  
-2023 
+2023  
 **ITA - Significato**  
 Saluto malizioso, volto a dimostrare attrazione fisica verso l’interlocutore o la persona a cui l’interlocutore si sta riferendo.  
 **ENG - Meaning**  
@@ -128,7 +128,7 @@ Mischievous and flirty greeting, aimed at demonstrating physical attraction towa
 **Supposed Origin**  
 INDEXLAB  
 **Original Contributors**  
-FRANCISCO MARTINS CARABETTA
+FRANCISCO MARTINS CARABETTA  
 **Date**  
 2022  
 **ITA - Significato**  
